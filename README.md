@@ -40,3 +40,8 @@ you need to run `cd gzzchat`. Then call `npm install` to install all dependencie
 
 Using `npm run build` to build the UI files.
 
+### Afterwards
+This is for git and github teaching
+
+### Help
+How git is used?
