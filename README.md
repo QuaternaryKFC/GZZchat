@@ -45,3 +45,6 @@ This is for git and github teaching
 
 ### Help
 How git is used?
+
+### Foo
+bar!
