@@ -45,6 +45,7 @@ This is for git and github teaching
 
 ### Help
 How git is used?
+Please read the documentation
 
 ### Foo
 bar!
